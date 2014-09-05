@@ -1,0 +1,27 @@
+.item-list {
+  font-size: 23px;
+}
+.item .up {
+  color: rgba(255, 144, 0, 1);
+  cursor: pointer;
+  width: 10px;
+}
+
+.item .down {
+  color: rgba(65, 161, 255, 1);
+  cursor: pointer;
+  width: 10px;
+}
+
+.item .votes {
+    font-weight: bold;
+    width: 42px;
+    display: inline-block;
+}
+
+.item .name {
+}
+
+.navbar-brand .name {
+    color: rgba(130, 174, 231, 1);
+}

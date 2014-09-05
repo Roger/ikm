@@ -1,0 +1,25 @@
+{
+  "name": "ikm",
+  "version": "0.1.0",
+  "authors": [
+    "roger"
+  ],
+  "main": "app",
+  "license": "GPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "react-bootstrap": "git://github.com/react-bootstrap/react-bootstrap-bower.git#~0.11.1",
+    "react-mini-router": "~0.2.4",
+    "react": "~0.11.1",
+    "requirejs": "~2.1.14",
+    "superagent": "~0.18.2"
+  }
+}
