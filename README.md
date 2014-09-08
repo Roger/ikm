@@ -4,7 +4,7 @@ An **enterprise** version of [ikr][]
 
 ## Why
 
-Becouse.. TodoMVC is boring
+Because.. TodoMVC is boring
 
 ## Is it any good?
 
